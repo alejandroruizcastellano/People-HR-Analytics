@@ -29,6 +29,9 @@ Modelo de datos.JPG
 # --- Tooling personal (no forma parte de la presentación) ---
 informe ejecutivo/
 
+# --- Notas de trabajo internas (no parte de la presentación) ---
+STATUS.md
+
 # --- Configuración de herramientas / sistema ---
 .claude/
 .playwright-cli/
