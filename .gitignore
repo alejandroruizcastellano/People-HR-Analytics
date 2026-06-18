@@ -1,0 +1,37 @@
+# ============================================================
+#  People HR Analytics — archivos excluidos del repo
+# ============================================================
+
+# --- Datos pesados (superan el límite de 100 MB de GitHub o son regenerables) ---
+# Volcado completo de la BD MySQL (~173 MB)
+RRHH_employees_database.sql
+# Export de la tabla empleados (~60 MB)
+query1.csv
+
+# --- Documentos de trabajo / borradores ---
+*.docx
+# Modelo MySQL Workbench (archivo fuente)
+*.mwb
+# Documentación de la BD pública (enlazada en el README)
+employee-en.a4.pdf
+
+# --- Material redundante / fuentes sueltas ---
+# ZIP redundante (la carpeta iconos/ ya contiene los PNG)
+iconos.zip
+# Query alternativa de trabajo (la versión final está en sql/)
+query+empleados+power+bi.sql
+Query1.sql
+# Paleta en formatos de trabajo (la versión publicada está en img/)
+paleta colores.JPG
+paleta colores.txt
+Modelo de datos.JPG
+
+# --- Tooling personal (no forma parte de la presentación) ---
+informe ejecutivo/
+
+# --- Configuración de herramientas / sistema ---
+.claude/
+.playwright-cli/
+.DS_Store
+Thumbs.db
+desktop.ini
