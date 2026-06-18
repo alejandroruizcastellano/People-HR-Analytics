@@ -86,8 +86,10 @@ escala de 1 a 5.
 - **Desempeño promedio:** 3,33 / 5 (entre "Aceptable" y "Bueno"), con tendencia de mejora
   consistente en todos los departamentos.
 
-> 📌 **Informe ejecutivo:** versión resumida estilo consultoría disponible en
-> [`informe-ejecutivo/`](informe-ejecutivo/) *(en preparación)*.
+> 📌 **Informe ejecutivo:** versión resumida estilo consultoría (Pirámide de McKinsey),
+> con mensaje clave, insights y plan de acción, disponible en
+> [`informe-ejecutivo/informe_ejecutivo_hr.html`](informe-ejecutivo/informe_ejecutivo_hr.html)
+> *(HTML autocontenido, apto para PDF)*.
 
 ---
 
