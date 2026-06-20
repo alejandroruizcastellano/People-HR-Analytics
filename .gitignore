@@ -15,6 +15,9 @@ query1.csv
 # Documentación de la BD pública (enlazada en el README)
 employee-en.a4.pdf
 
+# --- Iconografía del dashboard (embebida en el .pbix, no necesaria en el repo) ---
+iconos/
+
 # --- Material redundante / fuentes sueltas ---
 # ZIP redundante (la carpeta iconos/ ya contiene los PNG)
 iconos.zip
